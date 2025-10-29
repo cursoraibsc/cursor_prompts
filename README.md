@@ -2,5 +2,5 @@
 Cursor Prompt for Easy App Setup
 
 ### X - Twitter
-(http://x.com/cursorai_)
+<a href="http://x.com/cursorai_" TWITTER </a>
 
